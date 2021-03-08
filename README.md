@@ -14,7 +14,8 @@ To Do
 
 ## Before Refactor
 
-To do
+![Image before refactor](./assets/images/website-before-refactor.png "website before refactor")
+
 
 ## After Refactor
 
