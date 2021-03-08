@@ -6,11 +6,25 @@ Click [here] (TODO) to view project on Github pages.
 
 ## Description
 
-To do
+As a marketing agency we were tasked to refactor the webpage by Horiseon by adding semantic HTML and making the website more accessible.
 
 ## What did we do?
 
-To Do
+- Replace HTML element with semantic HTML elements
+- Fixed nav link bug
+- Update title of website for SEO
+- Made images more accessible by adding alt attributes
+- Formatted code using lint (prettier)
+
+## Getting started
+
+- Clone the github project on to your local machine
+- Navigate in to the project
+- Open the project in VSCode
+- Open the 'index.html' file in your local browser
+
+git clone git@github.com:Ladynads/homework-week-1.git
+code .
 
 ## Before Refactor
 
@@ -21,15 +35,7 @@ To Do
 
 To do
 
-## Getting started
 
-- Clone the github project on to your local machine
-- Navigate in to the project
-- Open the project in VSCode
-Open the 'index.html' file in your local browser
-
-git clone git@github.com:Ladynads/homework-week-1.git
-code .
 
 ## Screenshots
 
