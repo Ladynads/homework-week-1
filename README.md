@@ -23,8 +23,11 @@ As a marketing agency we were tasked to refactor the webpage by Horiseon by addi
 - Open the project in VSCode
 - Open the 'index.html' file in your local browser
 
-git clone git@github.com:Ladynads/homework-week-1.git
+
+git clone git@github.com/Ladynads/homework-week-1.git
+cd homework-week-1
 code .
+
 
 ## Screenshots
 
