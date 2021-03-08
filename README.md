@@ -2,7 +2,7 @@
 
 ## Project link
 
-Click [here] (TODO) to view project on Github pages.
+Click [here](https://github.com/Ladynads/homework-week-1) to view project on Github pages.
 
 ## Description
 
@@ -26,6 +26,8 @@ As a marketing agency we were tasked to refactor the webpage by Horiseon by addi
 git clone git@github.com:Ladynads/homework-week-1.git
 code .
 
+## Screenshots
+
 ## Before Refactor
 
 ![Image before refactor](./assets/images/website-before-refactor.png "website before refactor")
@@ -33,10 +35,5 @@ code .
 
 ## After Refactor
 
-To do
 
-
-
-## Screenshots
-
-To do
+![Image after refactor](./assets/images/website-after-refactor.png "website after refactor")
